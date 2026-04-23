@@ -1,0 +1,298 @@
+{
+  "name": {
+    "message": "TG Sender - TG katta xabarlarni yuborish va taklif qilish, TG Sender - TG bulk message send and invite",
+    "description": ""
+  },
+  "desc": {
+    "message": "Telegram guruh a'zolarini olib, katta xabarlarni yuborish, TG avtomatik tarzda katta a'zolarni taklif qilish.Scrape Telegram group members and send bulk message, invite bulk members automatically on TG",
+    "description": ""
+  },
+  "scraper_name": {
+    "message": "Scraper"
+  },
+  "scraper_question": {
+    "message": "How to Scrape Telegram Group Members?"
+  },
+  "scraper_step_1": {
+    "message": "1. Login your Telegram account"
+  },
+  "scraper_step_2": {
+    "message": "2. Click on the group(not channel) that you want to scrape"
+  },
+  "scraper_step_3": {
+    "message": "3. Set the number of usernames you want to scrape"
+  },
+  "scraper_step_4": {
+    "message": "4. Click START SCRAPING"
+  },
+  "scraper_step_5": {
+    "message": "5. After finish, usernames will be shown below"
+  },
+  "scraper_visit": {
+    "message": "Still can't understand? visit "
+  },
+  "scraper_guide": {
+    "message": "use guide"
+  },
+  "scraper_contact": {
+    "message": "If you have any question, contact us: "
+  },
+  "scraper_users": {
+    "message": "Scraped usernames"
+  },
+  "scraper_copy_username": {
+    "message": "Copy Usernames"
+  },
+  "scraper_user_num": {
+    "message": "Number of Usernames"
+  },
+  "scraper_start_button": {
+    "message": "Start Scraping"
+  },
+  "scraper_tip": {
+    "message": "Choose a group to begin using this feature"
+  },
+  "scraper_username_placeholder": {
+    "message": "Scraped usernames will appear here"
+  },
+  "view_subscription": {
+    "message": "View Subscription"
+  },
+  "scraper_daily_use": {
+    "message": " free daily actions used"
+  },
+  "message_name": {
+    "message": "Message"
+  },
+  "message_question": {
+    "message": "How to Send Bulk Messages?"
+  },
+  "message_step_1": {
+    "message": "1. Login your Telegram account"
+  },
+  "message_step_2": {
+    "message": "2. Input a list of Telegram username or phone number to send message (use Scraper feature to scrape usernames)"
+  },
+  "message_step_3": {
+    "message": "3. Set the message that you want to send"
+  },
+  "message_step_4": {
+    "message": "4. Set the interval between messages. (20 to 25 seconds is recommended)"
+  },
+  "message_step_5": {
+    "message": "5. Click START MESSAGING"
+  },
+  "message_usernames": {
+    "message": "Usernames/Group/Phone Number"
+  },
+  "message_usernames_tip": {
+    "message": "1 per line, such as @will96725 or +0112345678"
+  },
+  "message_message": {
+    "message": "Message"
+  },
+  "message_interval": {
+    "message": "Interval Time Between Messages(seconds)"
+  },
+  "message_interval_start": {
+    "message": "to"
+  },
+  "message_interval_end": {
+    "message": "seconds"
+  },
+  "message_interval_recommend": {
+    "message": " (20 to 25 seconds is recommend)"
+  },
+  "message_start": {
+    "message": "Start Messaging"
+  },
+  "message_placeholder": {
+    "message": "Paste username list or phone number list that should be messaged"
+  },
+  "message_text_placeholder": {
+    "message": "message text"
+  },
+  "invite_name": {
+    "message": "Invite"
+  },
+  "invite_question": {
+    "message": "How to Invite Bulk Members in Group?"
+  },
+  "invite_step_1": {
+    "message": "1. Login your Telegram account"
+  },
+  "invite_step_2": {
+    "message": "2. Click on the group that you want to add members"
+  },
+  "invite_step_3": {
+    "message": "3. Input a list of Telegram username"
+  },
+  "invite_step_4": {
+    "message": "4. Set the interval between invites (20 to 25 seconds is recommened)"
+  },
+  "invite_step_5": {
+    "message": "5. Set the numbers of invites"
+  },
+  "invite_step_6": {
+    "message": "6. Click START INVITING"
+  },
+  "invite_number": {
+    "message": "Number of Invites (200 limit)"
+  },
+  "invite_usernames": {
+    "message": "Usernames (1 per line, such as @will96725)"
+  },
+  "invite_interval": {
+    "message": "Interval Time Between Invites(seconds)"
+  },
+  "invite_start": {
+    "message": "Start Inviting"
+  },
+  "invite_placeholder": {
+    "message": "Paste list usernames that should be invited"
+  },
+  "progress_name": {
+    "message": "Progress"
+  },
+  "progress_tip": {
+    "message": "Please stay on this window until complete"
+  },
+  "progress_stop": {
+    "message": "Stop"
+  },
+  "progress_return": {
+    "message": "Return"
+  },
+  "progress_complete": {
+    "message": "Complete！"
+  },
+  "progress_complete_other": {
+    "message": "Complete! (group has insufficient or hidden members)"
+  },
+  "popup_title": {
+    "message": "To avoid your account being banned, we suggest:"
+  },
+  "popup_tip_1": {
+    "message": "1. Account has been registered "
+  },
+  "popup_tip_11": {
+    "message": "more than 15 days"
+  },
+  "popup_tip_2": {
+    "message": "2. The number of messages sent "
+  },
+  "popup_tip_22": {
+    "message": "not exceed 50/day"
+  },
+  "popup_tip_3": {
+    "message": "Do not include links"
+  },
+  "popup_title_1": {
+    "message": "To avoid sending failed, we suggest:"
+  },
+  "popup_tip_4": {
+    "message": "Stay on this window while messages are sending automatically."
+  },
+  "popup_show": {
+    "message": "Don't show again"
+  },
+  "popup_button": {
+    "message": "OK & SEND MESSAGES"
+  },
+  "popup_top": {
+    "message": "Suggestion"
+  },
+  "api_scraper": {
+    "message": "Api Scraper(faster)"
+  },
+  "api_verify_account": {
+    "message": "Verify Account:"
+  },
+  "api_verify_tip1": {
+    "message": "Phone number must begin with +. like +86,+01."
+  },
+  "api_verify_tip2": {
+    "message": "Telegram will send a code to the Telegram Web or App on your other device."
+  },
+  "api_verify_tip3": {
+    "message": "We don't collect your Telegram private data."
+  },
+  "api_phone_placeholder": {
+    "message": "enter your phone number"
+  },
+  "api_code_placeholder": {
+    "message": "enter the code you received"
+  },
+  "api_phone_button": {
+    "message": "Send Code"
+  },
+  "api_code_button": {
+    "message": "Verify"
+  },
+  "api_passowrd_placeholder": {
+    "message": "enter the password"
+  },
+  "api_password_button": {
+    "message": "Confirm"
+  },
+  "api_login_tip_1": {
+    "message": "Telegram will send a code to the Telegram Web or App on your other device."
+  },
+  "api_login_tip_2": {
+    "message": "If you don't received any code, please check your phone number."
+  },
+  "api_verify_success": {
+    "message": " Verify Success!"
+  },
+  "api_verify_fail": {
+    "message": " Verify Failed! "
+  },
+  "api_verify_fail_tip1": {
+    "message": "Please Enter Right Phone Number"
+  },
+  "api_verify_fail_tip2": {
+    "message": "Phone Code is Invalid"
+  },
+  "api_verify_fail_tip3": {
+    "message": "Password is not Correct"
+  },
+  "api_verify_delete": {
+    "message": "Delete Verify"
+  },
+  "api_verify_tip": {
+    "message": " You Need to Verify to Use API Scraper!"
+  },
+  "api_scrape_member": {
+    "message": "Scrape Members:"
+  },
+  "api_scrape_tip1": {
+    "message": "Hidden members can't be scraped."
+  },
+  "api_scrape_tip2": {
+    "message": "Channel subscribers can't be scraped."
+  },
+  "api_scrape_tip3": {
+    "message": "Export up to 500 members."
+  },
+  "api_group_placeholder": {
+    "message": "enter a group link, like https://t.me/name"
+  },
+  "api_scrape_button": {
+    "message": "Start Scraping"
+  },
+  "api_scrape_success": {
+    "message": " Scrape Success! "
+  },
+  "api_scrape_export": {
+    "message": "CSV Export"
+  },
+  "api_scrape_fail": {
+    "message": " Scrape Failed! "
+  },
+  "api_scrape_fail_tip1": {
+    "message": "Please Enter a Group Link"
+  },
+  "api_scrape_fail_tip2": {
+    "message": "Verify expired, please verify again"
+  }
+}

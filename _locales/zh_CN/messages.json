@@ -1,0 +1,646 @@
+{
+  "name": {
+    "message": "Telegram发送器 - Telegram消息群发工具",
+    "description": ""
+  },
+  "desc": {
+    "message": "TG自动化工具，采集电报群成员，批量发送信息，批量邀请TG群成员，TG批量拉人，TG自动拉人，TG拉人软件，TG拉人进群，比Geeks TG电报极客、黑豹、TG流量大师更强",
+    "description": ""
+  },
+  "acitvate_name": {
+    "message": "激活码"
+  },
+  "scraper_name": {
+    "message": "采集用户"
+  },
+  "message_name": {
+    "message": "群发消息"
+  },
+  "invite_name": {
+    "message": "批量邀请"
+  },
+  "api_scraper_name": {
+    "message": "API采集"
+  },
+  "upgrade_message": {
+    "message": "升级至专业版享受最佳体验！"
+  },
+  "scraper_users": {
+    "message": "采集的用户列表"
+  },
+  "scraper_copy_username": {
+    "message": "复制采集的用户名"
+  },
+  "scraper_user_num": {
+    "message": "设置采集的用户数量"
+  },
+  "scraper_filter_active": {
+    "message": "筛选条件"
+  },
+  "activate_members": {
+    "message": "活跃用户："
+  },
+  "filter_active_1": {
+    "message": "24小时以内在线"
+  },
+  "filter_active_7": {
+    "message": "7天内在线"
+  },
+  "remove_admin": {
+    "message": "去除管理员"
+  },
+  "scraping_phone_number": {
+    "message": "采集电话号码"
+  },
+  "scrape_chat_member": {
+    "message": "采集发言用户(采集隐藏成员)"
+  },
+  "remaining_quota": {
+    "message": "剩余额度："
+  },
+  "scraper_start_button": {
+    "message": "开始采集"
+  },
+  "scrape_tip_1": {
+    "message": "请先从消息列表中选中一个群组"
+  },
+  "scrape_tip_2": {
+    "message": "请升级到标准版以上套餐采集更多用户，感谢您的支持！"
+  },
+  "scrape_tip_3": {
+    "message": "采集数量超过额度，请将数量限制在%以内"
+  },
+  "api_scrape_login": {
+    "message": "登录Telegram账号:"
+  },
+  "api_phone_placeholder": {
+    "message": "请输入电话号码"
+  },
+  "api_phone_button": {
+    "message": "发送验证码"
+  },
+  "api_code_placeholder1": {
+    "message": "请输入验证码"
+  },
+  "api_code_button": {
+    "message": "验证"
+  },
+  "api_verify_delete": {
+    "message": "删除验证"
+  },
+  "api_passowrd_placeholder": {
+    "message": "请输入密码"
+  },
+  "api_password_button": {
+    "message": "确定"
+  },
+  "api_login_tip_1": {
+    "message": "Telegram官方会发送验证码到您其他已登录的设备"
+  },
+  "api_login_tip_2": {
+    "message": "如果未收到任何验证码，请检查手机号是否正确"
+  },
+  "api_verify_tip": {
+    "message": "需要先验证才能使用API采集！"
+  },
+  "invite_verify_tip": {
+    "message": "需要先验证才能使用API邀请！"
+  },
+  "api_verify_success": {
+    "message": "验证成功！"
+  },
+  "api_verify_fail": {
+    "message": "验证失败！"
+  },
+  "api_verify_fail_tip1": {
+    "message": "电话号码不正确"
+  },
+  "api_verify_fail_tip2": {
+    "message": "验证码无效"
+  },
+  "api_verify_fail_tip3": {
+    "message": "密码不正确"
+  },
+  "api_verify_fail_tip4": {
+    "message": "电话号码被封"
+  },
+  "api_verify_fail_tip5": {
+    "message": "请输入电话号码和验证码"
+  },
+  "api_verify_fail_tip6": {
+    "message": "请求验证码次数频繁，请稍后重试"
+  },
+  "api_verify_fail_tip7": {
+    "message": "请求登录频繁，请稍后重试"
+  },
+  "api_verify_fail_tip8": {
+    "message": "验证码过期，请重新获取"
+  },
+  "api_verify_fail_tip9": {
+    "message": "登录失败"
+  },
+  "api_scrape_member": {
+    "message": "采集群成员"
+  },
+  "api_group_placeholder": {
+    "message": "输入群链接，例如https://t.me/tg_bulk_for_you"
+  },
+  "api_scrape_button": {
+    "message": "开始采集"
+  },
+  "api_scrape_tip_1": {
+    "message": "请升级到标准版以上套餐使用API采集功能"
+  },
+  "api_scrape_tip_2": {
+    "message": "请先登录账号！"
+  },
+  "api_scrape_tip_3": {
+    "message": "抱歉，标准版套餐每天仅支持采集10000个用户，请升级到专业版套餐采集更多"
+  },
+  "api_scrape_tip_4": {
+    "message": "抱歉，专业版套餐每天仅支持采集20000个用户"
+  },
+  "api_scrape_fail_tip1": {
+    "message": "抓取失败！请检查群组名称是否有误"
+  },
+  "api_scrape_fail_tip3": {
+    "message": "请输入群组链接。<a href='%link%' target='_blank'>如何获取群组链接?</a>"
+  },
+  "api_scrape_fail_tip6": {
+    "message": "账号登录过期，请重新登陆"
+  },
+  "api_scrape_fail_tip4": {
+    "message": "操作频繁，请稍后重试"
+  },
+  "api_scrape_fail_tip5": {
+    "message": "抓取失败！请提供群组链接。<a href='%link%' target='_blank'>如何获取群组链接?</a>"
+  },
+  "api_scrape_export": {
+    "message": "CSV格式导出"
+  },
+  "message_usernames": {
+    "message": "用户名/群组名/电话号码"
+  },
+  "message_message": {
+    "message": "消息内容"
+  },
+  "message_interval": {
+    "message": "发送时间间隔(秒)"
+  },
+  "message_placeholder": {
+    "message": "每行输入一个用户名，例如\n@name\n@name\n@name"
+  },
+  "message_text_placeholder": {
+    "message": "请输入消息内容"
+  },
+  "message_file_image": {
+    "message": "图片/视频"
+  },
+  "message_file_document": {
+    "message": "文件"
+  },
+  "message_tip_1": {
+    "message": "请先输入正确的用户名/群组名/电话号码"
+  },
+  "message_tip_2": {
+    "message": "消息内容不可为空！"
+  },
+  "message_tip_3": {
+    "message": "请升级到标准版以上套餐发送更多消息，感谢您的支持！"
+  },
+  "message_tip_4": {
+    "message": "群发列表超过可用额度，请将数量限制在%以内"
+  },
+  "message_tip_5": {
+    "message": "抱歉，专业版套餐每天仅支持发送3000条消息！"
+  },
+  "message_tip_6": {
+    "message": "抱歉，标准版套餐每天仅支持发送1000条消息，请升级到专业版套餐发送更多消息"
+  },
+  "message_start": {
+    "message": "开始群发"
+  },
+  "popup_title": {
+    "message": "为了防止您的账号被封禁，我们建议您："
+  },
+  "popup_top": {
+    "message": "提示"
+  },
+  "popup_tip_1": {
+    "message": "1. 账号的注册时间"
+  },
+  "popup_tip_11": {
+    "message": "超过15天"
+  },
+  "popup_tip_2": {
+    "message": "2. 群发数量"
+  },
+  "popup_tip_22": {
+    "message": "不超过50/天"
+  },
+  "popup_tip_3": {
+    "message": "不包含链接"
+  },
+  "popup_title_1": {
+    "message": "为了防止发送失败，我们建议您:"
+  },
+  "popup_tip_4": {
+    "message": "在插件执行期间保持在这个窗口"
+  },
+  "popup_tip_5": {
+    "message": "不要进行垃圾群发，因垃圾群发行为造成的封号我们概不负责"
+  },
+  "popup_show": {
+    "message": "不再显示"
+  },
+  "popup_button": {
+    "message": "我知道了，继续发送"
+  },
+  "file_tip_content": {
+    "message": "图片/视频/文件群发仅支持用户名（@username）"
+  },
+  "file_tip_sure": {
+    "message": "确定"
+  },
+  "image_upload_tip": {
+    "message": "请不要移动鼠标，直到上传文件的窗口出现！"
+  },
+  "invite_usernames": {
+    "message": "用户名（每行一个，例如@will967251）"
+  },
+  "invite_placeholder": {
+    "message": "请输入要邀请的用户列表，例如\n@name\n@name\n@name"
+  },
+  "invite_interval": {
+    "message": "邀请时间间隔(秒)"
+  },
+  "invite_start": {
+    "message": "开始邀请"
+  },
+  "invite_tip_1": {
+    "message": "请升级到标准版以上套餐使用批量邀请功能"
+  },
+  "invite_tip_2": {
+    "message": "请检查输入用户名列表是否正确！"
+  },
+  "invite_tip_3": {
+    "message": "抱歉，标准版套餐每天仅支持邀请2000人进入群组，请升级到专业版套餐邀请更多"
+  },
+  "invite_tip_4": {
+    "message": "邀请列表超过可用额度，请将数量限制在%以内"
+  },
+  "invite_tip_5": {
+    "message": "注意! 只有管理员能邀请成员进频道!"
+  },
+  "invite_tip_6": {
+    "message": "请输入群组/频道链接。<a href='%link%' target='_blank'>查看如何获取链接</a>"
+  },
+  "invite_tip_7": {
+    "message": "邀请频繁！Telegram已限制您的行为！"
+  },
+  "invite_tip_8": {
+    "message": "链接格式不正确。<a href='%link%' target='_blank'>查看如何获取链接</a>"
+  },
+  "refresh_tip": {
+    "message": "提示："
+  },
+  "refresh_content": {
+    "message": "请刷新页面！"
+  },
+  "upgrade_tip_sure": {
+    "message": "立即升级"
+  },
+  "active_title": {
+    "message": "请输入激活码"
+  },
+  "active_code_placeholder": {
+    "message": "激活码"
+  },
+  "active_button": {
+    "message": "激活"
+  },
+  "active_tip_1": {
+    "message": "去购买激活码"
+  },
+  "active_tip_2": {
+    "message": "激活码使用须知"
+  },
+  "active_error_tip_1": {
+    "message": "激活码不存在"
+  },
+  "active_error_tip_2": {
+    "message": "激活码已被其他设备绑定"
+  },
+  "active_error_tip_3": {
+    "message": "激活码已过期"
+  },
+  "active_success": {
+    "message": "激活成功！"
+  },
+  "user_profile": {
+    "message": "用户中心"
+  },
+  "current_plan": {
+    "message": "当前计划："
+  },
+  "join_date": {
+    "message": "加入日期："
+  },
+  "servive_period": {
+    "message": "套餐截止时间："
+  },
+  "upcoming_payments": {
+    "message": "即将支付的款项："
+  },
+  "pay_status": {
+    "message": "状态："
+  },
+  "cancel_sub": {
+    "message": "取消订阅"
+  },
+  "cancel_tip": {
+    "message": "您正在取消Telegram Sender的订阅。请告诉我们取消订阅的原因，我们将努力改进"
+  },
+  "cancel_success": {
+    "message": "取消成功"
+  },
+  "cancel_fail_1": {
+    "message": "订单已被取消，不能再取消"
+  },
+  "cancel_fail_2": {
+    "message": "1美元不支持取消"
+  },
+  "price_high": {
+    "message": "价格过高"
+  },
+  "feature_bad": {
+    "message": "功能不满足需求"
+  },
+  "frenquency_reason": {
+    "message": "使用频率太低"
+  },
+  "other_reason": {
+    "message": "其他原因"
+  },
+  "still_cancel": {
+    "message": "仍然取消"
+  },
+  "continue_use": {
+    "message": "继续使用"
+  },
+  "help_center": {
+    "message": "帮助中心："
+  },
+  "contact_us": {
+    "message": "联系我们"
+  },
+  "user_guide": {
+    "message": "教程"
+  },
+  "price": {
+    "message": "价格"
+  },
+  "version": {
+    "message": "版本："
+  },
+  "progress_name": {
+    "message": "进度"
+  },
+  "progress_tip": {
+    "message": "请保持在这个窗口，直到完成"
+  },
+  "progress_stop": {
+    "message": "停止"
+  },
+  "progress_return": {
+    "message": "返回"
+  },
+  "progress_complete": {
+    "message": "已完成！"
+  },
+  "progress_complete_other": {
+    "message": "已完成！该群成员不足或被隐藏"
+  },
+  "join_us": {
+    "message": "TG群组"
+  },
+  "ai_model":{
+    "message":"AI模型"
+  },
+  "ig_export":{
+    "message":"IG导出"
+  },
+  "ai_face_swap": {
+    "message": "AI换脸"
+  },
+  "guide_skip": {
+    "message": "跳过"
+  },
+  "guide_pin": {
+    "message": "固定扩展插件"
+  },
+  "guide_start": {
+    "message": "快速启动"
+  },
+  "guide_title": {
+    "message": "用户指南"
+  },
+  "guide_how_to_use": {
+    "message": "如何使用插件"
+  },
+  "guide_desc_title": {
+    "message": "为了让您更方便地访问此扩展插件，按照以下步骤将它固定在Chrome工具栏上："
+  },
+  "guide_desc_1": {
+    "message": "1. 点击导航栏上的插件图标。"
+  },
+  "guide_desc_2": {
+    "message": "2. 在下拉菜单中找到Telegram Sender。"
+  },
+  "guide_desc_3": {
+    "message": "3. <span>点击固定图标</span>，直到它变成蓝色。"
+  },
+  "guide_desc_4": {
+    "message": "4. 然后<span>再次点击图标</span>，打开Telegram Sender。"
+  },
+  "guide_step_1": {
+    "message": "我们正在帮你<span>进入测试群组</span>。无需您亲自动手，我们已经帮您安排妥当。"
+  },
+  "guide_step_2": {
+    "message": "在您左边的列表中<span>选择一个群组</span>。请记住，我们支持的是群组，而不是频道。"
+  },
+  "guide_step_5": {
+    "message": "想优化您的策略吗？勾选这个框，优先搜集<span>过去24小时内的活跃用户</span>。"
+  },
+  "guide_step_6": {
+    "message": "就快完成了！<span>现在点击 '开始采集' 按钮</span>，观察Telegram Sender展现出的魔力。恭喜您，您已经准备好将您的营销推向新的高度了！"
+  },
+  "pin_desc": {
+    "message": "太棒了！您选择了一个Telegram群组，已经迈出了重大的一步。现在，<span>再次点击那个图标</span>，Telegram Sender的真正力量就将展现在您眼前。"
+  },
+  "trail_tips": {
+    "message": "试用仅剩%hour%小时，<span>立即升级专业版</span>，持续享受高级特权"
+  },
+  "trail_expirate_tips": {
+    "message": "试用已过期，<span>立即升级专业版</span>，享受更多功能和特权"
+  },
+  "trail_popup_content": {
+    "message": "试用已过期，API采集和邀请功能已不可用。通过订阅，您可以持续享受这些功能以及我们不断更新的内容。千万别错过，立即升级！"
+  },
+  "group_list": {
+    "message": "群组列表"
+  },
+  "your_group_list": {
+    "message": "您的群组列表"
+  },
+  "get_now": {
+    "message": "立即获取"
+  },
+  "update": {
+    "message": "更新"
+  },
+  "group_scrape_fail_tip": {
+    "message": "您尚未加入任何群，立即加入您的第一个群！"
+  },
+  "group_scrape_progress": {
+    "message": "<div>稍等片刻！Sender已为您找到<span>%count%</span>个群组！</div> "
+  },
+  "group_scrape_success_tip": {
+    "message": "成功获取群组列表。接下来，请从中选择一个群组，以便获取成员数据。"
+  },
+  "web_invite_name": {
+    "message": "Web邀请"
+  },
+  "api_invite_name": {
+    "message": "API邀请"
+  },
+  "invite_group_link": {
+    "message": "群组/频道链接"
+  },
+  "scrape_now": {
+    "message": "立即采集用户名"
+  },
+  "group_tip": {
+    "message": "<a href='%link%' target='_blank'>如何获取群组链接？</a>"
+  },
+  "invite_dialog_tips": {
+    "message": "<p>1.为了防止您的账号被封禁，我们建议您的账号注册时间<span>超过15天</span></p><p>2.为了防止邀请失败，请<span>不要离开插件</span></p><p>3.有些用户会设置权限，不允许其他人邀请进入群组或频道，因此<span>设置的邀请数量与成功邀请数量之间会有差距</span>，这是正常的</p>"
+  },
+  "invite_popup_button": {
+    "message": "我知道了，继续邀请"
+  },
+  "api_scrape_hidden_tip": {
+    "message": "该群大部分成员被隐藏，你需要采集聊天中的群成员吗？"
+  },
+  "api_scraper_fast_tip": {
+    "message": "为什么API采集比Web采集快100倍？"
+  },
+  "progress_fast_tip": {
+    "message": "采集太慢？使用API采集，提升100倍速度"
+  },
+  "version_tip": {
+    "message": "%version% 版本更新内容"
+  },
+  "version_star": {
+    "message": "给我们5星好评"
+  },
+  "version_got_it": {
+    "message": "知道了"
+  },
+  "multi_sender": {
+    "message": "多账号群发器"
+  },
+  "two_step_title": {
+    "message": "两步验证"
+  },
+  "connect_tip": {
+    "message": "无法连接至Telegram，请检查网络！"
+  },
+  "api_need_wait": {
+    "message": "您的操作被Telegram限制，请等待%wait%秒后重试，或者更换账号"
+  },
+  "payupgrade_tip": {
+    "message": "支付系统已升级！！！"
+  },
+  "payupgrade_star": {
+    "message": "继续享受"
+  },
+  "payupgrade_got_it": {
+    "message": "放弃"
+  },
+  "password_title": {
+    "message": "两步验证"
+  },
+  "api_scrape_member1": {
+    "message": "输入群组链接:"
+  },
+  "api_login_tip": {
+    "message": "需要先登录才能使用API采集！"
+  },
+  "api_login_success": {
+    "message": "登录成功"
+  },
+  "api_login_fail": {
+    "message": "登录失败"
+  },
+  "api_code_button1": {
+    "message": "登录"
+  },
+  "api_account_delete": {
+    "message": "删除账号"
+  },
+  "invite_login_tip": {
+    "message": "需要先登录才能使用API邀请！"
+  },
+  "add_contact_tip": {
+    "message": "<span style='color: red;font-weight: 600;'>%count%</span> 个电话号码加入联系人失败。 <span style='color:gray;'>(由于这些电话未注册Telegram或者您被限制加联系人)</span>"
+  },
+  "auto_reply": {
+    "message": "自动回复"
+  },
+  "monitor_keywords": {
+    "message": "监控关键词"
+  },
+  "keywords_placeholder": {
+    "message": "关键词1, 关键词2, 关键词3 (请使用“,”分隔关键词)"
+  },
+  "reply_content": {
+    "message": "自动回复内容"
+  },
+  "content_placeholder": {
+    "message": "请输入您想要自动回复的内容，不支持图片和文件"
+  },
+  "keywords_tip": {
+    "message": "请输入你需要监控的关键词。当联系人发送包含这些关键词的内容时，将回复下面的内容。记住，关键词必须完全匹配。最多同时监控5个关键词"
+  },
+  "reply_once": {
+    "message": "同一联系人只回复1次"
+  },
+  "start_auto_reply": {
+    "message": "开始自动回复"
+  },
+  "auto_contact_us": {
+    "message": "需要设置多个自动回复任务吗？联系我们"
+  },
+  "auto_reply_tip": {
+    "message": "1.Telegram网页必须保持打开<br>2.如果您点击页面的其他内容，任务将被暂停，并在您再次打开[自动回复]窗口时重新开始任务。"
+  },
+  "pause_auto_reply": {
+    "message": "暂停"
+  },
+  "auto_reply_close_p": {
+    "message": "如果您需要重新启用[自动回复]，请转到您的个人中心并打开它！"
+  },
+  "quick_reply": {
+    "message": "快速回复："
+  },
+  "keyword_error_1": {
+    "message": "关键词不能为空"
+  },
+  "keyword_error_2": {
+    "message": "关键词不能超过5个"
+  },
+  "content_error_1": {
+    "message": "回复内容不能为空"
+  }
+}
